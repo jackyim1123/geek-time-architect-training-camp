@@ -68,7 +68,7 @@
 10. 第十周：[模块分解 - 微服务与领域驱动设计](https://xie.infoq.cn/article/ba366bae4f1c4866781ae05ad)
     - 作业：[根据微服务框架 Dubbo 调用的时序图。关于微服务（中台架构、领域驱动设计、组件设计原则）思考和认知](https://xie.infoq.cn/article/fbc89afae0c27b30e7a02c24e)
 
-11. 第十一周：[安全稳定 - 安全与高可用](https://xie.infoq.cn/article/e8562c21b212e9bd6b7bd02f4)
+11. 第十一周：[安全稳定 - 安全与高可用](https://xie.infoq.cn/article/7cfb810fc4fbd871acd71c58c)
     - 作业：[导致系统不可用的原因有哪些？保障系统高可用的方案有哪些？请用你熟悉的编程语言编写一个用户密码验证函数 boolean checkPW(String 用户ID, String 密码明文，String 密码密文](https://xie.infoq.cn/article/e8562c21b212e9bd6b7bd02f4)
 
 12. 第十二周：[大数据应用1 - 大数据、Hadoop、HDFS、MapReduce、Shuffle](https://xie.infoq.cn/article/b2ff44c8f2e46047407ca3cf8)
